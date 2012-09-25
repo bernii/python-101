@@ -26,6 +26,14 @@ print im(a)
 print a
 
 
+# mutables
+def mm(a):
+    a.append('xx')
+    return a
+a = [1, 2, 3]
+print mm(a), a
+
+
 # f(123456789) -> 123,456,789 mathematical way
 def ff(number):
     out = []
@@ -107,4 +115,16 @@ fact4 = lambda a: reduce(operator.__mul__, xrange(1, a + 1), 1)  # no lambda (th
 from timeit import Timer
 for i in range(1, 5):
     t = Timer("fact%d(18)" % i, "from __main__ import fact%d" % i)
-    print "%d." % i, "fact%d" % i, min(t.repeat(23, 10000))
+    print "%d." % i, "fact%d" % i, min(t.repeat(23, 500))
+
+
+# Closure and context
+def scope():
+    out = []
+    for i in range(0, 3):
+        closure = lambda: i * 2
+        out.append(closure)
+    return out
+# or in more compact form
+# scope = lambda: [lambda: x * 2 for x in range(0, 3)]
+print [x() for x in scope()]
