@@ -19,3 +19,6 @@ and few morre:
 
 [![another one](http://www.petercollingridge.co.uk/sites/files/peter/hover4_ECMAScript.svg)](http://www.petercollingridge.co.uk/data-visualisation/mouseover-effects-svgs)
 
+
+[![final one](http://extensa.pl/projekty/test.svg)](http://www.petercollingridge.co.uk/data-visualisation/mouseover-effects-svgs)
+
