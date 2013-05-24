@@ -52,6 +52,6 @@ some tests:
 | ------------- | -----:|
 
 xx
-Cheeseburger        $7.20
+Cheeseburger    $7.20
 
-[![Selenium Test Status](https://saucelabs.com/buildstatus/wdjs)](https://saucelabs.com/u/wdjs)    ![Flowers](https://saucelabs.com/browser-matrix/wdjs.svg
+[![Selenium Test Status](https://saucelabs.com/buildstatus/wdjs)](https://saucelabs.com/u/wdjs)    ![Flowers](https://saucelabs.com/browser-matrix/wdjs.svg)
