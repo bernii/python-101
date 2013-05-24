@@ -30,3 +30,5 @@ some tests:
 <div style="float: right"><img src="https://saucelabs.com/browser-matrix/wdjs.svg" /></div>
 
 ![Flowers](https://saucelabs.com/browser-matrix/wdjs.svg){.float-right}
+
+<span class="float-right"><img src="https://saucelabs.com/browser-matrix/wdjs.svg" /></span>
