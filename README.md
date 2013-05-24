@@ -52,6 +52,15 @@ some tests:
 | ------------- | -----:|
 
 xx
+
+Caesar Salad        $8.20
+Hamburger           $6.70
+Cheeseburger        $7.20
+
 Cheeseburger    $7.20
 
 [![Selenium Test Status](https://saucelabs.com/buildstatus/wdjs)](https://saucelabs.com/u/wdjs)    ![Flowers](https://saucelabs.com/browser-matrix/wdjs.svg)
+
+MORE
+
+<img style="float:right" class="float-right" src="https://saucelabs.com/browser-matrix/wdjs.svg" />
