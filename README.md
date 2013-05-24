@@ -44,3 +44,9 @@ some tests:
 <span class="float-right" markdown="1">
     ![Flowers](https://saucelabs.com/browser-matrix/wdjs.svg)
 </span>
+
+
+
+
+| [![Build Status](https://secure.travis-ci.org/admc/wd.png?branch=master)](http://travis-ci.org/admc/wd) [![Selenium Test Status](https://saucelabs.com/buildstatus/wdjs)](https://saucelabs.com/u/wdjs)| ![Flowers](https://saucelabs.com/browser-matrix/wdjs.svg)  |
+| ------------- | -----:|
