@@ -32,3 +32,11 @@ some tests:
 ![Flowers](https://saucelabs.com/browser-matrix/wdjs.svg){.float-right}
 
 <span class="float-right"><img src="https://saucelabs.com/browser-matrix/wdjs.svg" /></span>
+
+<span style="float:right" markdown="1">
+    ![book](https://saucelabs.com/browser-matrix/wdjs.svg)
+</span>
+
+<p align="right">
+  ![Flowers](https://saucelabs.com/browser-matrix/wdjs.svg)
+</p>
