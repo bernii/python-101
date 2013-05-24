@@ -38,7 +38,7 @@ some tests:
 </span>
 
 <p align="right" markdown="1">
-    ![Flowers](https://saucelabs.com/browser-matrix/wdjs.svg)
+    <img src="https://saucelabs.com/browser-matrix/wdjs.svg" />
 </p>
 
 <span class="float-right" markdown="1">
