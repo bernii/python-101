@@ -23,3 +23,10 @@ here sth new:
 
 [![final one](http://extensa.pl/projekty/test.svg)](http://www.petercollingridge.co.uk/data-visualisation/mouseover-effects-svgs)
 
+some tests:
+
+<img style="float:right" src="https://saucelabs.com/browser-matrix/wdjs.svg" />
+
+<div style="float: right"><img src="https://saucelabs.com/browser-matrix/wdjs.svg" /></div>
+
+![Flowers](https://saucelabs.com/browser-matrix/wdjs.svg){.float-right}
